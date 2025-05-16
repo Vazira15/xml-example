@@ -1,8 +1,29 @@
-<user>
+<friends>
+    <user>
    <name>Vazira</name>
    <lastname>Normurodova</lastname>
-   <education>
-    <name>TSUE</name>
-    <department>DE</department>
-   </education>
+   <educations>
+     <education type="university">
+     <name>TSUE</name>
+     <department>DE</department>
+     </education>
+     <education type="school">
+     <name>7</name>
+     </education>
+   </educations>
 </user>
+
+<friend>
+    <fname>Lobar</fname>
+<flastname>Rahimova</flastname>
+<feducations>
+    <feducation type="university">
+        <fname>KarSU</fname>
+     <fdepartment>Mathematics</fdepartment>
+     </feducation>
+     <feducation type="school">
+     <fname>21</fname>
+    </feducation>
+</feducations>
+</friend>
+</friends>
