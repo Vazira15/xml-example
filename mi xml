@@ -1,6 +1,8 @@
 <user>
    <name>Vazira</name>
-   <surname>Normurodova</surname>
-   <company>TSUE</company>
-   <position>student</position>
+   <lastname>Normurodova</lastname>
+   <education>
+    <name>TSUE</name>
+    <department>DE</department>
+   </education>
 </user>
