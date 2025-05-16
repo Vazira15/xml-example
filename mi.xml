@@ -1,29 +1,33 @@
-<relations> <friends>
-    <user1>
-   <name>Vazira</name>
-   <lastname>Normurodova</lastname>
-   <educations>
-     <education type="university">
-     <name>TSUE</name>
-     <department>DE</department>
-     </education>
-     <education type="school">
-     <name>7</name>
-     </education>
-   </educations>
-    </user1>
-<user2>
-    <name>Lobar</name>
-<lastname>Rahimova</lastname>
-<educations>
-    <education type="university">
-        <name>KarSU</name>
-     <department>Mathematics</department>
-     </education>
-     <education type="school">
-     <name>21</name>
-    </education>
-</educations>
-</user2>
-</friends>
-</relations>
+<store>
+   <cars>
+       <car id=1>
+          <name>Cobalt<name>
+          <color>white<color>
+       </car>
+
+       <car id=2>
+           <name>Cobalt<name>
+           <color>black<color>
+       </car>
+
+       <car id=3>
+           <name>Malibu<name>
+           <color>black<color>
+       </car>
+
+       <car id=4>
+           <name>Malibu<name>
+           <color>white<name>
+       </car>
+
+       <car id=5>
+           <name>Matiz<name>
+           <color>teal<color>
+       </car>
+
+       <car id=6>
+           <name>Matiz<name>
+           <color>red<color>
+       </car>
+    </cars>
+</store>
